@@ -66,6 +66,32 @@ I led the project from concept to production, performing multiple roles includin
 My responsibilities included requirements gathering, process mapping, solution design, workflow modelling, system development, stakeholder engagement, testing, deployment, user training, and ongoing product enhancement.
 
 ---
+## Real-World Deployment
+
+CivTech Allocat is not a concept or demonstration project. It was designed, developed, and deployed to support the operations of **Anthony Udokwu's Foundation–Yahweh**, a UK-registered charity delivering scholarships, welfare support, hardship relief, and community empowerment programmes.
+
+The platform is used to manage:
+
+- Online grant and scholarship applications
+- Eligibility assessments
+- Evidence verification
+- Interview workflows
+- Decision recording
+- Applicant records
+- Appeals and clarification requests
+- Support ticket management
+- Programme administration
+- Reporting and audit trails
+
+### Organisation
+
+Anthony Udokwu's Foundation–Yahweh
+
+Website:
+https://anthonyudokwufoundationyahweh.co.uk/
+
+The Foundation website demonstrates the real-world programmes and operational environment for which this platform was built.
+---
 
 ## Project Impact
 
@@ -85,5 +111,8 @@ Watch the complete project walkthrough here:
 
 **YouTube:** https://www.youtube.com/watch?v=sVqfUC9CEW4
 ## Repository Purpose
+
+**Live Organisation**
+https://anthonyudokwufoundationyahweh.co.uk/
 
 This repository showcases the project's architecture, documentation, screenshots, and selected examples of implementation. Proprietary production code and confidential data are intentionally excluded to protect intellectual property and user privacy.
