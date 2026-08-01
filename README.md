@@ -79,7 +79,11 @@ The platform has successfully:
 * Enhanced transparency and accountability across programme delivery
 
 ---
+## 🎥 Video Demonstration
 
+Watch the complete project walkthrough here:
+
+**YouTube:** https://www.youtube.com/watch?v=sVqfUC9CEW4
 ## Repository Purpose
 
 This repository showcases the project's architecture, documentation, screenshots, and selected examples of implementation. Proprietary production code and confidential data are intentionally excluded to protect intellectual property and user privacy.
